@@ -29,3 +29,15 @@ Same goes with MacOS users, if you donot have Python installed on your system, i
 
 - [32-bit Binary](https://www.python.org/ftp/python/3.7.5/python-3.7.5-macosx10.6.pkg "32-bit Binary")
 - [64-bit Binary](https://www.python.org/ftp/python/3.7.5/python-3.7.5-macosx10.9.pkg)
+
+OpenCV and Numpy
+================
+To install Numpy;
+```shell
+$ pip install numpy
+```
+
+To install OpenCV;
+```shell
+$ pip install opencv-python
+```
